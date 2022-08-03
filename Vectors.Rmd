@@ -65,4 +65,8 @@ class(my_matrix)
 ```{r}
 glimpse(penguins)
 ```
-
+ 
+ Console communicates with R (R-code etc.) VS the Terminal is communicating with the computer more braodly (same as the Terminal on the computer)
+ 
+ A cool update
+ 
